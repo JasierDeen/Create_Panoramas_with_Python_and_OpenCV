@@ -4,3 +4,7 @@
 
 1. to load images and manipulate them. 
 2. It has the cv2.Stitcher class which you will use to create the panoramas.
+
+## Refference
+
+https://www.makeuseof.com/create-panoramas-with-python-and-opencv/
